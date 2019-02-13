@@ -11,9 +11,3 @@ Dialogos.hijim= [
 	"Thanks, bye.",
 	"Bye.",
 ];
-Dialogos.test= [
-	"Test",
-	"Probando",
-	"If you like piña colada",
-	"I am become death, destroyer of worlds",
-];
