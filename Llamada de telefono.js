@@ -1,4 +1,4 @@
-/no tiene audio/
+//no tiene audio
 Dialogos= {}; 
 Dialogos.hijohn= [
 	"Hello?",
