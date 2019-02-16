@@ -13,7 +13,7 @@ Dialogos.hijim= [
 ];
 Dialogos.hinick= [
 	"Mary: Hello?",
-  "Nicholas: Nicolas speaking",
+  "Nicholas: Nicholas speaking",
 	"Mary: Hi Nicholas, can I speak with John?",
 	"Nicholas: Can I tell him who's calling?", 
 	"Mary: Yes, it's Mary Johnson",
