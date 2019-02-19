@@ -1,15 +1,15 @@
 Dialogos= {};
 Dialogos.hijim= [
-	"Hello?",
+	"You: Hello?",
 	"Jim: Hi, Jim from the frontend team here.",
-	"Hi Jim! How can I help you?", 
+	"You: Hi Jim! How can I help you?", 
 	"Jim: I need to speak with Laura, is she there?",
-	"I'm afraid she's not here.",
-	"Do you want to leave a message?",
+	"You: I'm afraid she's not here.",
+	"You: Do you want to leave a message?",
 	"Jim: Yes, we need more information about the cart feature, we are blocked.",
-	"I'm sending her a text message to her mobile so she knows you called.",
+	"You: I'm sending her a text message to her mobile so she knows you called.",
 	"Jim: Thanks, bye.",
-	"Bye.",
+	"You: Bye.",
 ];
 Dialogos.hinick= [
 	"Mary: Hello?",
