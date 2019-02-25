@@ -25,3 +25,23 @@ Dialogos.hinick= [
 	"Nicholas: Thanks, bye.",
 	"Mary: Bye.",
 ];
+Dialogos.StandupTime= [
+	"Charles: It's stand-up time.",
+	"Charles: Everybody good to go?",
+	"Ryoko: Yes",
+	"Charles: Okay, Who wants to start?",
+	"Harold: I want to",
+	"Charles: Great, the floor is yours.",
+	"Harold: Yesterday I finished the source code for the recipe request voice interface, and I run a unit test so, that's done.",
+	"Harold: Today I'm working on passing the request parameters to the recipe search code.",
+	"Harold: My main impediment is still my lack of knowledge of the speech recognition engine.",
+	"Harold: Ryoko is our expert, and has been a wonderful help",
+	"Harold: But with the time difference it's just challenging.",
+	"Charles: Okay. That's very good Harold, but we need to resolve that.",
+	"Charles: Ryoko, can you send your schedule?",
+	"Charles: I will look into getting travel approval.",
+	"Ryoko: Ok, I'll do that.",
+	"Charles: Thanks Ryoko.",
+	"Charles: Why don't you go next?",
+	"Ryoko: Okay sure. Today I...",
+	];
