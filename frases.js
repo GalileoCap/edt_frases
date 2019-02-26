@@ -1,5 +1,5 @@
 Dialogos= {};
-Dialogos.hijim= [
+Dialogos["Hi Jim"]= [
 	"You: Hello?",
 	"Jim: Hi, Jim from the frontend team here.",
 	"You: Hi Jim! How can I help you?", 
