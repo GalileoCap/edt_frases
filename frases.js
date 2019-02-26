@@ -11,7 +11,7 @@ Dialogos["Hi Jim"]= [
 	"Jim: Thanks, bye.",
 	"You: Bye.",
 ];
-Dialogos.hinick= [
+Dialogos.["Hi Nick"]= [
 	"Mary: Hello?",
   "Nicholas: Nicholas speaking",
 	"Mary: Hi Nicholas, can I speak with John?",
@@ -25,7 +25,7 @@ Dialogos.hinick= [
 	"Nicholas: Thanks, bye.",
 	"Mary: Bye.",
 ];
-Dialogos.StandupTime= [
+Dialogos.["Standup Time"]= [
 	"Charles: It's stand-up time.",
 	"Charles: Everybody good to go?",
 	"Ryoko: Yes",
